@@ -1,0 +1,1 @@
+This project was made in 2023 as an introduction to scheduling policies and CPU virtualization in the Operative Systems subject, 2nd year of the Computer Science degree, and it was originally shared and built via BitBucket with my team.
